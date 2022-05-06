@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: aba63ecf40f006c4e86c5203d6653f0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3608432531010497943
+    second: All_BRICK_STAGE_5-01_0
+  - first:
+      213: -2607001520273784250
+    second: All_BRICK_STAGE_5-01_1
+  - first:
+      213: -5861679144508784060
+    second: All_BRICK_STAGE_5-01_2
+  - first:
+      213: -5757423956527389031
+    second: All_BRICK_STAGE_5-01_3
+  - first:
+      213: 3865060210677037289
+    second: All_BRICK_STAGE_5-01_4
+  - first:
+      213: -4857479677566499280
+    second: All_BRICK_STAGE_5-01_5
+  - first:
+      213: -572656350648345839
+    second: All_BRICK_STAGE_5-01_6
+  - first:
+      213: -4408915272426669840
+    second: All_BRICK_STAGE_5-01_7
+  - first:
+      213: 1234463315755733962
+    second: All_BRICK_STAGE_5-01_8
+  - first:
+      213: 7518749637152831467
+    second: All_BRICK_STAGE_5-01_9
+  - first:
+      213: 7511634013515868702
+    second: All_BRICK_STAGE_5-01_10
+  - first:
+      213: -5380672684019630566
+    second: All_BRICK_STAGE_5-01_11
+  - first:
+      213: 697568167136185728
+    second: All_BRICK_STAGE_5-01_12
+  - first:
+      213: -5793117482184743733
+    second: All_BRICK_STAGE_5-01_13
+  - first:
+      213: 2046536468951942080
+    second: All_BRICK_STAGE_5-01_14
+  - first:
+      213: -7058078607055945064
+    second: All_BRICK_STAGE_5-01_15
+  - first:
+      213: -5561107332594534209
+    second: All_BRICK_STAGE_5-01_16
+  - first:
+      213: 3396247562846898436
+    second: All_BRICK_STAGE_5-01_17
+  - first:
+      213: 6865430259780184781
+    second: All_BRICK_STAGE_5-01_18
+  - first:
+      213: 6211803438855914820
+    second: All_BRICK_STAGE_5-01_19
+  - first:
+      213: -6282699625895671843
+    second: All_BRICK_STAGE_5-01_20
+  - first:
+      213: 5675884113303567286
+    second: All_BRICK_STAGE_5-01_21
+  - first:
+      213: 7009775129816915318
+    second: All_BRICK_STAGE_5-01_22
+  - first:
+      213: -8341860467872084740
+    second: All_BRICK_STAGE_5-01_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 334
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_0
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d28d6c44ab31230800000000000000
+      internalID: 3608432531010497943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_1
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6428d270ee112dbd0800000000000000
+      internalID: -2607001520273784250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_2
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4420d34efd127aea0800000000000000
+      internalID: -5861679144508784060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9966cd96a658910b0800000000000000
+      internalID: -5757423956527389031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_4
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b6ec98c373a530800000000000000
+      internalID: 3865060210677037289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_5
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03648f228f3c69cb0800000000000000
+      internalID: -4857479677566499280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_6
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bdb3945148d08f0800000000000000
+      internalID: -572656350648345839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_7
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8b63e4be260d2c0800000000000000
+      internalID: -4408915272426669840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_8
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac31fdf58d1b12110800000000000000
+      internalID: 1234463315755733962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_9
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7779d75f6f75860800000000000000
+      internalID: 7518749637152831467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_10
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aea52465fae3860800000000000000
+      internalID: 7511634013515868702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_11
+      rect:
+        serializedVersion: 2
+        x: 4749
+        y: 9609
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ebc50b3b20455b0800000000000000
+      internalID: -5380672684019630566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_12
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dc5c85d824ea900800000000000000
+      internalID: 697568167136185728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_13
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4e54cd756ba9fa0800000000000000
+      internalID: -5793117482184743733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_14
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c343c35312c66c10800000000000000
+      internalID: 2046536468951942080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_15
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89285a5f6eaac0e90800000000000000
+      internalID: -7058078607055945064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_16
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f1e2585af2d2b0800000000000000
+      internalID: -5561107332594534209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_17
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40986c01a25e12f20800000000000000
+      internalID: 3396247562846898436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_18
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6a685278e64f50800000000000000
+      internalID: 6865430259780184781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_19
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4458e8be052c43650800000000000000
+      internalID: 6211803438855914820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_20
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd742083afd5fc8a0800000000000000
+      internalID: -6282699625895671843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_21
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbfdb7678ac4ce40800000000000000
+      internalID: 5675884113303567286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_22
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dda185759b74160800000000000000
+      internalID: 7009775129816915318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_BRICK_STAGE_5-01_23
+      rect:
+        serializedVersion: 2
+        x: 4749
+        y: 9085
+        width: 334
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc4c9ef912cb3c80800000000000000
+      internalID: -8341860467872084740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
